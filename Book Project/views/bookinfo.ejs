@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Book Information</title>
+<link rel="stylesheet" href="../../css/biStyle.css">
+</head>
+<body>
+
+<div id="contain">
+    <img id="bookImage" src="/images/bookTitles/<%= book.image %>" alt="<%= book.name %>"></img>
+    <div>
+        <h3>"<%= book.name %>"</h3>
+        <h2>By <%= book.author %></h2>
+        <p><%= book.description %></p>
+        <img src="/images/authors/<%= book.authorImg %>"></img>
+        <p><a href="../../" class="booksLink">Go back</a></p>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "image": "sorcerers.jpg",
+        "author": "J. K. Rowling",
+        "authorImg": "jkRowling.jpg",
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "published": "1997",
+        "description": "Harry Potter goes on a journey with his 2 best friends to find the sorcerer's stone that Voldemort is after."
+    },
+    {
+        "id": "2",
+        "image": "lightning.jpg",
+        "author": "Rick Riordan",
+        "authorImg": "rickRiordan.jpg",
+        "name": "The Lightning Theif",
+        "published": "2005",
+        "description": "Percy Jackson finds out that his father is none other than Poseidon and has to prove his innnocence to the Olympian king Zeus."
+    },
+    {
+        "id": "3",
+        "image": "narnia.jpeg",
+        "author": "C. S. Lewis",
+        "authorImg": "cslewis.jpg",
+        "name": "The Lion, The Witch, and The Wardrobe",
+        "published": "1950",
+        "description": "The Lion, the Witch, and the Wardrobe is where four siblings discover a magical land called Narnia through a wardrobe, where they join the battle against the evil White Witch with the help of the majestic lion, Aslan."
+    },
+    {
+        "id": "4",
+        "image": "throne.jpg",
+        "author": "George R. R. Martin",
+        "authorImg": "georger.r.martian.jpg",
+        "name": "A Game of Thrones",
+        "published": "1996",
+        "description": "Game of Thrones, the first book in Ice and Fire series, is a medieval-inspired fantasy novel where noble houses compete for control in a land threatened by dark forces from the North."
+    },
+    {
+        "id": "5",
+        "image": "fellowship.jpg",
+        "author": "J. R. R. Tolkien",
+        "authorImg": "jrrtolkein.jpg",
+        "name": "The Fellowship of the Ring",
+        "published": "1954",
+        "description": "The Fellowship of the Ring, the first volume in the Lord of the Rings trilogy, follows Frodo Baggins and a diverse group of companions on a perilous journey to destroy a powerful ring that could plunge Middle-earth into eternal darkness."
+    },
+    {
+        "id": "6",
+        "image": "hunger.jpg",
+        "author": "Suzanne Collins",
+        "authorImg": "suzanneCollins.jpg",
+        "name": "Hunger Games",
+        "published": "2008",
+        "description": "The Hunger Games is where protagonist Katniss Everdeen volunteers to participate in a televised fight-to-the-death competition in a society that uses the games for control and entertainment."
+    },
+    {
+        "id": "7",
+        "image": "twilight.jpg",
+        "author": "Stephenie Meyer",
+        "authorImg": "stephenieMeyer.jpg",
+        "name": "Twilight, Book 1: Twilight",
+        "published": "2005",
+        "description": "Twilight, the first book in the Twilight series, chronicles the forbidden romance between mortal Bella Swan and the enigmatic vampire, Edward Cullen, in the rain-soaked town of Forks, Washington."
+    },
+    {
+        "id": "8",
+        "image": "vagabond.jpg",
+        "author": " Takehiko Inoue",
+        "authorImg": "takhikoInoue.jpg",
+        "name": "Vagabond",
+        "published": "1998",
+        "description": "Vagabond depicts the life and journey of Miyamoto Musashi, one of Japan's most legendary swordsmen, as he seeks mastery in the way of the sword and personal enlightenment."
+    }
+]
