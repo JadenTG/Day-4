@@ -5,6 +5,7 @@ const port = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(express.static("./public"));
+app.use(express.static("./views"));
 
 app.set('view engine', 'ejs');
 app.set('views', './views');
@@ -30,3 +31,6 @@ app.all('*', (req, res) => {
 app.listen(port, () => {
     console.log("Server Running at port", port);
 });
+
+// Notes:
+// Add Search Bar
